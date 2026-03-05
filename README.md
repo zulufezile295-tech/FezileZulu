@@ -1,4 +1,3 @@
-# Fezile Zulu
 # 👋 Hi, I'm Fezile Zulu
 
 I am a Computer Science & IT student. I also code in Java, Python, and C++, and I am passionate about learning and building meaningful software projects. My goal is to grow as a developer and secure a software development graduate role where I can apply my skills and contribute to impactful solutions.
@@ -9,13 +8,14 @@ I am a Computer Science & IT student. I also code in Java, Python, and C++, and 
 - Java
 - Python
 - C++
-- JavaScript
+- JavaScript (learning)
 
 ### Web Development
-- HTML, CSS, JavaScript
-- React
-- Node.js
-- Express
+
+- HTML & CSS 
+- JavaScript (learning)
+- React (learning)
+- Node.js (learning)
 
 ### Databases
 - MongoDB
