@@ -27,7 +27,7 @@ I am a Computer Science & IT student. I also code in Java, Python, and C++, and 
 
 ---
 
-## 💡 Interests
+## Interests
 
 - Building web and desktop applications  
 - Data Structures & Algorithms  
@@ -38,4 +38,4 @@ I am a Computer Science & IT student. I also code in Java, Python, and C++, and 
 
 ---
 
-Thanks for visiting! 😊
+Thanks for visiting!
